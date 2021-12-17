@@ -1,1 +1,1 @@
-# Taxi-fare-predictor
+# Cab-fare-predictor
